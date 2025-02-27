@@ -1,0 +1,3 @@
+lazyinput
+notify-py
+groq
